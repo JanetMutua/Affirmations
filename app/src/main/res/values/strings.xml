@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmations_1">Rome was never built in a day!</string>
+    <string name="affirmations_2">Slowly is the fastest way to get to where you want to be!</string>
+    <string name="affirmations_3">I am enough!</string>
+    <string name="affirmations_4">Consistency and Time!</string>
+    <string name="affirmations_5">Without a struggle there can be no progress!</string>
+    <string name="affirmations_6">The goal is to be so damn good at my craft! Simple!</string>
+    <string name="affirmations_7">I am a god!</string>
+    <string name="affirmations_8">I believe in myself!</string>
+    <string name="affirmations_9">All good things take time!</string>
+    <string name="affirmations_10">Outwork everyone!</string>
+</resources>
